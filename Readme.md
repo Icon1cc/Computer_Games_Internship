@@ -59,7 +59,7 @@ We use a Trello board to manage the development process. Here are the list names
 
 ## Additional Resources
 
-Please note that this is a high-level overview. Each step would require a detailed understanding and learning depending on the complexity of the game. There are many online tutorials, documentation, and courses available to help you with each step of the game development process. Game development can be a complex process, but it's also a lot of fun and very rewarding.
+Please note that this is a high-level overview. Each step would require a detailed understanding and learning depending on the complexity of the game. There are many online tutorials, documentation and courses available to help everyone with each step of the game development process. Game development can be a complex process but it is also a lot of fun and very rewarding. If we do have any materials which can be relative for the development of the game and can be used as a reference to build this game, it can be found under this section.
 
 ---
 
