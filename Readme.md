@@ -18,19 +18,19 @@ This phase includes defining the game's scope, the required assets, the game's f
 
 ## Learning Phase
 
-You will need to understand the basics of Unity and C# before you can start the development. Unity is the game engine you'll be using, and C# is the scripting language used to define game behavior.
+We will need to understand the basics of Unity and C# before we can start the development. Unity is the game engine we will be using and C# is the scripting language used to define game behavior.
 
 ## Development Phase
 
-This is the core phase of the project where you'll create your game. It includes creating your assets (or sourcing them), implementing your functionality, and testing your game.
+This is the core phase of our project where we will create our own game. It includes creating our assets (or sourcing them), implementing our functionality and testing our game.
 
 ## Polishing Phase
 
-After your game is functionally complete, you'll likely need to spend some time polishing it. This can include tweaking gameplay, fixing bugs, improving graphics, and optimizing performance.
+After our game is functionally complete, we will likely need to spend some time polishing it. This can include tweaking gameplay, fixing bugs, improving graphics and optimizing performance.
 
 ## Release Phase
 
-Once you're happy with your game, it's time to release it. This could involve publishing it to a platform like the Unity Asset Store, Google Play, or Apple's App Store.
+Once we are happy with our game, it's time to release it. This could involve publishing it to a platform like the Unity Asset Store, Google Play, or Apple's App Store.
 
 ## Trello Board
 
